@@ -14,7 +14,7 @@ Before you begin, ensure you:
 
 ---
 
-## **🚀 Steps**
+## **🚀 Steps** 
 
 ### **1. Install dotenv**
 Install the `dotenv` package to manage environment variables:
